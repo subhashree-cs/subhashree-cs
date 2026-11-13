@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Subhashree Samal 👋
+**2nd-Year B.Tech in CSE (AI & ML) | Trident Academy of Technology, Bhubaneswar**
 
-<!--
-**subhashree-cs/subhashree-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about building AI-driven software, computer vision tools, and full-stack analytics dashboards. Currently seeking **Summer 2025/2026 AI/ML & Software Internships**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Working On:
+- 🛠️ **MPLAD Sentinel AI:** Dashboard for real-time tracking and anomaly detection in public fund schemes ([Live Demo](https://tracex-opal.vercel.app)).
+- 🧠 **DocuMind AI:** Exploring Multimodal Document Intelligence and Retrieval-Augmented Generation (RAG).
+- 📐 **Mathematics for ML:** Deep diving into Linear Algebra, Calculus, and Probability (via NPTEL / IISc).
+
+---
+
+### 💻 Tech Stack & Tools:
+- **Languages:** Python, C, JavaScript
+- **AI / ML Foundations:** NumPy, Pandas, Matplotlib, Scikit-learn
+- **Tools & Platforms:** Git, GitHub, VS Code, Vercel
+
+---
+
+### 📫 Connect With Me:
+- [LinkedIn](https://linkedin.com/in/subhashreesamal213)
+- Email: subhashreesamal213@gmail.com
